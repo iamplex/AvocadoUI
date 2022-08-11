@@ -1,0 +1,8 @@
+## Interface: 20502
+## Title: AvocadoUI
+## Version: 1.1
+## Notes: My Scripts
+## Author: Avocado
+
+AvocadoUI.lua
+# CSUI.lua
