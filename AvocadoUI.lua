@@ -142,14 +142,14 @@ frame:SetScript("OnEvent", function(self, event, ...)
     -- ArenaEnemyFrame5.SetPoint = function() end
 end)
 
-TotemFrameTotem1:ClearAllPoints()
-TotemFrameTotem1:SetPoint("CENTER", UIParent, "CENTER", -48, -72)
+-- TotemFrameTotem1:ClearAllPoints()
+-- TotemFrameTotem1:SetPoint("CENTER", UIParent, "CENTER", -48, -72)
 
-TotemFrameScale = 1.3
-TotemFrameTotem1:SetScale(TotemFrameScale)
-TotemFrameTotem2:SetScale(TotemFrameScale)
-TotemFrameTotem3:SetScale(TotemFrameScale)
-TotemFrameTotem4:SetScale(TotemFrameScale)
+-- TotemFrameScale = 1.3
+-- TotemFrameTotem1:SetScale(TotemFrameScale)
+-- TotemFrameTotem2:SetScale(TotemFrameScale)
+-- TotemFrameTotem3:SetScale(TotemFrameScale)
+-- TotemFrameTotem4:SetScale(TotemFrameScale)
 
 PetFrame:ClearAllPoints()
 PetFrame:SetPoint("CENTER", PlayerFrame, "CENTER", -80, 64)
